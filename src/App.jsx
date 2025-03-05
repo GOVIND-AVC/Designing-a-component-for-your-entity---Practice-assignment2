@@ -9,7 +9,7 @@ function App() {
     return (
     <div className='app'>
       <Productcard
-      productimage ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxIseMkSdtTzBPyp4O_3mm26PF16VyqqD2A&s" 
+      productimage ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zU87Rg26gF5DVCYoH5P8SAAPHEyqbJaXLg&s" 
       productname="heman"
       price="10000"
       productbutton="VIEW PRODUCT"
